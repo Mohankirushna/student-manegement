@@ -30,6 +30,7 @@ This system helps manage student records — add, delete, view, and update stude
 
 ```bash
 git clone https://github.com/Mohankirushna/student-manegement.git
+```
 
 Navigate into the project folder:
 cd student-manegement
